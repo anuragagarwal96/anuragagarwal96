@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Agarwal</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate data analyst and engineer from India</h3>
 
 - 🌱 I’m currently wokring on **Data and Business Analytics**
 
