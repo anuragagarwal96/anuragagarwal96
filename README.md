@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anurag Agarwal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **ML algorithms and frameworks of web development**
+- 🌱 I’m currently learning **Data and Business Analytics**
 
-- 👯 I’m looking to collaborate on **Machine Learning project**
+- 👯 I’m looking to collaborate on **Analytics and Data Engineering**
 
-- 🤝 I’m looking for help with **general deep learning models**
+- 🤝 I’m looking for help with **Data Science and Data Engineering**
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Data Analytics and Visualization**
 
 - 📫 How to reach me **anurag.agarwal96@gmail.com**
 
