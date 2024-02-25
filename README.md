@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Agarwal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Data and Business Analytics**
+- 🌱 I’m currently wokring on **Data and Business Analytics**
 
 - 👯 I’m looking to collaborate on **Analytics and Data Engineering**
 
