@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anurag.agarwal96@gmail.com**
 
-- ⚡ Fun fact: **I'm a nature person who loves to travel drink coffee and try out new cuisines. I am a firm believer in the philosophy of Minimalism.**
+- ⚡ Fun fact: **I'm a nature person who loves to travel, sip coffee and try out new cuisines. I am a firm believer in the philosophy of Minimalism.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
